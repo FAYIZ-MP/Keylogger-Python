@@ -24,7 +24,7 @@ Run the script using:
 ```bash
 python keylogger.py
 ```
-
+(Press ESC to stop recording keystrokes.)
 Once executed, it will begin logging keystrokes into `keylog.txt` in real time.
 
 ## 📂 Project Structure
