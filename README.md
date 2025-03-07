@@ -4,8 +4,11 @@ This is a simple yet powerful keylogger built using the `pynput` library in Pyth
 
 ## 🧿 Features
 ✔️ Captures and records all keystrokes into `keylog.txt`
+
 ✔️ Displays real-time keystrokes in the terminal (optional)
+
 ✔️ Runs in the background using a keyboard listener
+
 ✔️ Lightweight and easy to use
 
 ## 🛠 Installation
